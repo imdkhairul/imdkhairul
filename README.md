@@ -72,4 +72,4 @@ If you're interested in collaborating on a project, discussing ideas, or have an
 
 I'm excited to connect and explore opportunities to work together!
 
-[![Khairul's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdkhairul)](https://github.com/imdkhairul/github-readme-stats)
+[![Khairul's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdkhairul)]([https://github.com/imdkhairul/github-readme-stats](https://github-readme-stats.vercel.app/api?username=imdkhairul)https://github-readme-stats.vercel.app/api?username=imdkhairul)
