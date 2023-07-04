@@ -53,7 +53,7 @@ Here are some noteworthy projects I have worked on:
 - Implemented caching strategies and load balancing techniques to improve performance.
 - Worked closely with the development team to implement the proposed system design and ensure its successful deployment.
 
--->
+
 
 ## Open Source Contributions
 
@@ -62,6 +62,7 @@ I am passionate about open source and believe in giving back to the developer co
 - Contributed bug fixes and enhancements to the XYZ open-source project.
 - Created a library for iOS that simplifies integration with a popular third-party API.
 - Actively participate in online forums and communities to share knowledge and assist fellow developers.
+-->
 
 ## Contact Me
 
