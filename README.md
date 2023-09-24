@@ -72,5 +72,3 @@ If you're interested in collaborating on a project, discussing ideas, or have an
 - LinkedIn: [Md. Khairul Islam](https://www.linkedin.com/in/md-khairul-islam-a929b173)
 
 I'm excited to connect and explore opportunities to work together!
-
-[![Khairul's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdkhairul)]([https://github.com/imdkhairul/github-readme-stats](https://github-readme-stats.vercel.app/api?username=imdkhairul)https://github-readme-stats.vercel.app/api?username=imdkhairul)
